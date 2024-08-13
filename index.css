@@ -1,0 +1,17 @@
+body {
+    background-color: #0c000c;
+    color: rgb(122, 49, 113);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+h2{
+    color: rgb(189, 113, 185);
+    font-size: 45px;
+}
+h1{
+    color: rgb(189, 113, 185);
+    font-size: 30px;
+}
